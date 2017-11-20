@@ -46,6 +46,15 @@ namespace GameData
         public float toY;
     }
 
+    public class CollectableData
+    {
+        public string collectableID;
+        public float X;
+        public float Y;
+        public int Value;
+        public string AssetName;
+    }
+
     public class LeavingData
     {
         public string playerID;

@@ -43,6 +43,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Game Components\Camera.cs" />
+    <Compile Include="Game Components\collectable.cs" />
     <Compile Include="Game Components\FadeText.cs" />
     <Compile Include="Game Components\OtherPlayer.cs" />
     <Compile Include="Game Components\Player.cs" />
@@ -74,6 +75,15 @@
   <ItemGroup>
     <Content Include="Content\background.jpg" />
     <Content Include="Content\coin.png" />
+    <Content Include="Content\Collectables\Badges_0.png" />
+    <Content Include="Content\Collectables\Badges_1.png" />
+    <Content Include="Content\Collectables\Badges_2.png" />
+    <Content Include="Content\Collectables\Badges_3.png" />
+    <Content Include="Content\Collectables\Badges_4.png" />
+    <Content Include="Content\Collectables\Badges_5.png" />
+    <Content Include="Content\Collectables\Badges_6.png" />
+    <Content Include="Content\Collectables\Badges_7.png" />
+    <Content Include="Content\Collectables\Badges_8.png" />
     <Content Include="Content\Player.png" />
     <Content Include="Icon.ico" />
   </ItemGroup>
